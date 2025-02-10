@@ -31,8 +31,8 @@ export default function Home() {
                 
               
                   <div className="mt-6">
-                     <Link href="#"><Image src='/images/download.avif' width={152} height={128} className="h-12 inline-block m-1" alt=""/></Link>
-                     <Link href="#"><Image src='/images/play.png' width={152} height={128} className="h-12 inline-block m-1" alt=""/></Link>
+                     <Link href="#"><Image src='/images/download.avif' width={200} height={150} className="inline-block m-1" alt=""/></Link>
+                     <Link href="#"><Image src='/images/mediafire.avif' width={200} height={150} className="inline-block m-1" alt=""/></Link>
                   </div>
               </div>
 
