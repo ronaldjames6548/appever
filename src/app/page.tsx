@@ -25,7 +25,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 grid-cols-1 items-center mt-6 gap-[30px] relative">
               <div className="md:me-6">
                   <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Anime Witcher (انمي ويتشر)</h6>
-                  <h2 className="font-bold lg:leading-normal leading-normal text-[42px] lg:text-[54px] mb-5">Download Anime Witcher 2025 V: 1.2.4</h2>
+                  <h2 className="font-bold lg:leading-normal leading-normal text-[42px] lg:text-[54px] mb-5">Download Anime Witcher 2025</h2>
                   <h3 className="font-bold lg:leading-normal leading-normal text-[24px] lg:text-[42px] mb-5">Version: 1.2.4</h3>
 
                   <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 latest version without ads for free 1.2.4</p>
