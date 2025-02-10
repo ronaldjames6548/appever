@@ -35,7 +35,7 @@ export default function Home() {
               </div>
 
               <div className="relative">
-                  <Image src='/images/phone/1.png' width={0} height={0} sizes="100vw" style={{width:'100%', height:'auto'}} className="mx-auto w-80 rotate-12 relative z-2" alt=""/>
+                  <Image src='/images/phone/1.avif' width={0} height={0} sizes="100vw" style={{width:'100%', height:'auto'}} className="mx-auto w-80 rotate-12 relative z-2" alt=""/>
                   <div className="overflow-hidden absolute md:size-[500px] size-[400px] bg-gradient-to-tl to-red-500/20 via-red-500/70 from-red-500 bottom-1/2 translate-y-1/2 md:start-0 start-1/2 ltr:md:translate-x-0 ltr:-translate-x-1/2 rtl:md:translate-x-0 rtl:translate-x-1/2 z-1 shadow-md shadow-red-500/10 rounded-full"></div>
 
                   <div className="overflow-hidden after:content-[''] after:absolute after:size-16 after:bg-red-500/20 after:top-0 after:end-6 after:z-1 after:rounded-lg after:animate-[spin_10s_linear_infinite]"></div>
