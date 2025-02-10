@@ -31,8 +31,6 @@ export default function Home() {
                 
               
                   <div className="mt-6">
-                  <div class="download-button" onclick="window.open('https://hexcmp.en.lo4d.com/download', '_self')"><i class="icon icon-download-solid fr" title="Download Icon" role="img" aria-label="Download Icon"></i><a href="https://hexcmp.en.lo4d.com/download" title="Download HexCmp" itemprop="installUrl" class="colour5"><h2>Download</h2> <b class="xsmall s_version">for Windows</b></a> <span>793.45 KB - <b class="icon icon-check vam" title="Checkmark" role="img" aria-label="Checkmark"></b> Tested clean</span></div>
-                  <div class="download-button" onclick="window.open('https://hexcmp.en.lo4d.com/download', '_self')"><i class="icon icon-download-solid fr" title="Download Icon" role="img" aria-label="Download Icon"></i><a href="https://hexcmp.en.lo4d.com/download" title="Download HexCmp" itemprop="installUrl" class="colour5"><h2>Download</h2> <b class="xsmall s_version">for Windows</b></a> <span>793.45 KB - <b class="icon icon-check vam" title="Checkmark" role="img" aria-label="Checkmark"></b> Tested clean</span></div>  
                     <Link href="#"><Image src='/images/app.png' width={152} height={128} className="h-12 inline-block m-1" alt=""/></Link>
                       <Link href="#"><Image src='/images/play.png' width={152} height={128} className="h-12 inline-block m-1" alt=""/></Link>
                   </div>
