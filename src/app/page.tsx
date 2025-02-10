@@ -25,7 +25,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 grid-cols-1 items-center mt-6 gap-[30px] relative">
               <div className="md:me-6">
                   <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Anime Witcher (انمي ويتشر)</h6>
-                  <h2 className="font-bold lg:leading-normal leading-normal text-[42px] lg:text-[54px] mb-5">Download Anime Witcher 2025</h2>
+                  <h2 className="font-bold lg:leading-normal leading-normal text-[42px] lg:text-[54px] mb-5">Download Anime Witcher 2025 V: 1.2.4</h2>
                   <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 latest version without ads for free 1.2.4</p>
                   <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 for Android. <Link href="/download-animewitcher-latest-version-2025">AnimeWitcher</Link> latest version for Android is a huge anime library through which you can watch all international anime movies and all episodes.</p>
                 
