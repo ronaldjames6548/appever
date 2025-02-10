@@ -31,8 +31,8 @@ export default function Home() {
                 
               
                   <div className="mt-6">
-                    <button type="submit" id="submit" class="py-2 px-5 tracking-wider inline-flex items-center justify-center font-medium rounded bg-red-500 text-white" name="send">Download Now</button>
-                      <Link href="#"><Image src='/images/play.png' width={152} height={128} className="h-12 inline-block m-1" alt=""/></Link>
+                     <Link href="#"><Image src='/images/play.png' width={152} height={128} className="h-12 inline-block m-1" alt=""/></Link>
+                     <Link href="#"><Image src='/images/play.png' width={152} height={128} className="h-12 inline-block m-1" alt=""/></Link>
                   </div>
               </div>
 
