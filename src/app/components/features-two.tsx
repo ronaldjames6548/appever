@@ -25,7 +25,7 @@ export default function FeaturesTwo() {
         </div>
 
         <div className="lg:col-span-4 md:col-span-12 lg:mx-4 lg:order-2 order-1">
-            <Image src='/images/phone/1.png' width={0} height={0} sizes='100vw' style={{width:'100%', height:'auto'}} className="mx-auto" alt=""/>
+            <Image src='/images/phone/1.avif' width={0} height={0} sizes='100vw' style={{width:'100%', height:'auto'}} className="mx-auto" alt=""/>
         </div>
 
         <div className="lg:col-span-4 md:col-span-6 order-3">
