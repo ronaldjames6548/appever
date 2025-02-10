@@ -29323,3 +29323,102 @@
 }
 
 
+
+
+
+
+{
+    transition: 70msease-in-out 30ms;
+}
+
+.download-button {
+    background-color: #09820e;
+    box-shadow: 0 2px 0 0 #153116;
+    height: 60px;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    margin: 0 0 15px;
+    width: 100%;
+    border-style: none;
+    padding: 0;
+    text-align: left;
+}
+
+.download-button i {
+    font-size: 20px;
+    font-weight: 100;
+    border-left: .5px solid #fff;
+    height: 41px;
+    padding: 19px 9px 0;
+}
+.fr {
+    float: right;
+}
+.fl, .fr {
+    position: relative;
+}
+[class*=" icon-"]:before, [class^=icon-]:before, [data-icon]:before {
+    font-family: icspr !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-download-solid:before {
+    content: "\61";
+}
+.icon-download-solid:before {
+    content: "\61";
+}
+.colour5, a.colour5:link, a.colour5:visited {
+    color: #fff;
+}
+#registerbutton a, .dlb_m a, .dlb_sm a, .download-button a {
+    display: block;
+}
+a:hover, a:link, a:visited {
+    text-decoration: none;
+}
+.download-button h2, .download-button strong {
+    display: inline-block;
+    font-size: 25px;
+    line-height: 33px;
+    padding: 5px 0 0 10px;
+}
+.download-button h2, .download-button strong, .fc1, .fc2 {
+    font-family: "PT Sans Narrow", Arial Narrow, Arial, Arial, sans-serif;
+}
+.colour5, a.colour5:link, a.colour5:visited {
+    color: #fff;
+}
+.dlb_lg span, .ic24_r, .icpad_l, .s_version {
+    margin-left: 10px;
+}
+.xsmall {
+    font-size: 12px;
+}
+.download-button span {
+    display: block;
+    line-height: 17px;
+    font-size: 11px;
+    font-weight: 100;
+    padding: 0 0 0 10px;
+}
+.vam {
+    padding-top: 1px;
+}
+.inlineimg, .vam {
+    vertical-align: middle;
+}
+.download-button span {
+    display: block;
+    line-height: 17px;
+    font-size: 11px;
+    font-weight: 100;
+    padding: 0 0 0 10px;
+}
