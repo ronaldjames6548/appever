@@ -4,7 +4,7 @@ import { FiDatabase, FiEye, FiFeather, FiHeart, FiMaximize, FiMonitor, FiNavigat
 export const feature = [
     {
         icon:FiMaximize,
-        title:'Fully functional',
+        title:'Fully Functional',
         desc:'Animewitcher latest version is now fully functional with no issues ans bugs.',
         active:true
     },
