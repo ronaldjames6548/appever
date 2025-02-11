@@ -25,15 +25,13 @@ export default function Home() {
           <div className="grid md:grid-cols-2 grid-cols-1 items-center mt-6 gap-[30px] relative">
               <div className="md:me-6">
                   <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Anime Witcher (انمي ويتشر)</h6>
-                  <h2 className="font-bold lg:leading-normal leading-normal text-[42px] lg:text-[54px] mb-5">تحميل انمي ويتشر 2025</h2>
-                  <h3 className="font-bold lg:leading-normal leading-normal text-[24px] lg:text-[42px] mb-5">الاصدار الأحدث 1.2.4</h3>
+                  <h2 className="font-bold lg:leading-normal leading-normal text-[42px] lg:text-[54px] mb-5">Download Anime Witcher 2025</h2>
+                  <h3 className="font-bold lg:leading-normal leading-normal text-[24px] lg:text-[42px] mb-5">Latest Version: 1.2.4</h3>
 
-                  <p className="text-slate-400 text-lg max-w-xl">تنزيل لعبة انمي ويتشر 2025 بدون اعلانات اخر اصدار مجانا 1.2.4</p>
-                  <p className="text-slate-400 text-lg max-w-xl">.تنزيل لعبة Anime Witcher 2025 للاندرويد <Link href="/download-animewitcher-latest-version-2025">انمي ويتشر</Link>.أحدث إصدار للأندرويد عبارة عن مكتبة أنمي ضخمة يمكنك من خلالها مشاهدة جميع أفلام الأنمي العالمية وجميع الحلقات
-
-
-
+                  <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 latest version without ads for free 1.2.4</p>
+                  <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 for Android. <Link href="/download-animewitcher-latest-version-2025">AnimeWitcher</Link> latest version for Android is a huge anime library through which you can watch all international anime movies and all episodes.</p>
                 
+              
                   <div className="mt-6">
                      <Link href="#"><Image src='/images/download.avif' width={200} height={150} className="inline-block m-1" alt=""/></Link>
                      <Link href="#"><Image src='/images/mediafire.avif' width={200} height={150} className="inline-block m-1" alt=""/></Link>
@@ -53,8 +51,8 @@ export default function Home() {
     <section className="relative md:py-24 py-16" id="features">
       <div className="container relative">
           <div className="grid grid-cols-1 pb-6 text-center">
-              <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Anime Watcher's Features</h6>
-              <h4 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Discover Powerful Features of Animewitcher</h4>
+              <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Features</h6>
+              <h4 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Discover Powerful Features</h4>
 
               <p className="text-slate-400 max-w-xl mx-auto">Unleash the power of our platform with a multitude of powerful features, empowering you to achieve your goals.</p>
           </div>
