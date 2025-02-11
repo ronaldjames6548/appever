@@ -19,7 +19,7 @@ export default function AboutTwo() {
                     <p className="text-slate-400 max-w-xl">Animewithcer has the feature to Download and Share the favorite anime in your device and with friends</p>
 
                     <ul className="list-none text-slate-400 mt-6">
-                        <li className="mb-1 flex"><i className="mdi mdi-check text-red-500 text-xl me-2"></i> Search Engine in the “Anime Witcher” helps to find any desired content with ease</li>
+                        <li className="mb-1 flex"><i className="mdi mdi-check text-red-500 text-xl me-2"></i> Search Engine in the “Anime Witcher” helps to find any content with ease.</li>
                         <li className="mb-1 flex ms-0"><i className="mdi mdi-check text-red-500 text-xl me-2"></i> Classification service enables to specify the category for each content.</li>
                         <li className="mb-1 flex ms-0"><i className="mdi mdi-check text-red-500 text-xl me-2"></i> Notification service that alerts the user to the presence of updates in the Anime Witcher</li>
                     </ul>
