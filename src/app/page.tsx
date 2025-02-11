@@ -29,9 +29,10 @@ export default function Home() {
                   <h3 className="font-bold lg:leading-normal leading-normal text-[24px] lg:text-[42px] mb-5">الاصدار الأحدث 1.2.4</h3>
 
                   <p className="text-slate-400 text-lg max-w-xl">تنزيل لعبة انمي ويتشر 2025 بدون اعلانات اخر اصدار مجانا 1.2.4</p>
-                  <p className="text-slate-400 text-lg max-w-xl">تحميل برنامج انمي ويتشر 2025 للاندرويد، برنامج <Link href="/download-animewitcher-latest-version-2025">انمي ويتشر</Link> اخر اصدار للاندرويد عبارة عن مكتبة انمي ضخمة يمكنك من خلالها مشاهدة جميع افلام الانمي العالمية وجميع الحلقات.
+                  <p className="text-slate-400 text-lg max-w-xl">.تنزيل لعبة Anime Witcher 2025 للاندرويد <Link href="/download-animewitcher-latest-version-2025">انمي ويتشر</Link>.أحدث إصدار للأندرويد عبارة عن مكتبة أنمي ضخمة يمكنك من خلالها مشاهدة جميع أفلام الأنمي العالمية وجميع الحلقات
 
-                    
+
+
                 
                   <div className="mt-6">
                      <Link href="#"><Image src='/images/download.avif' width={200} height={150} className="inline-block m-1" alt=""/></Link>
