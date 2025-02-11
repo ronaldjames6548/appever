@@ -18,7 +18,7 @@ export default function BannerOne() {
     let [isOpen, setOpen] = useState<boolean>(false);
 
     let images = [
-        '/images/phone/1.webp', '/images/phone/2.webp', '/images/phone/3.webp', '/images/phone/4.webp', '/images/phone/5.webp', '/images/phone/6.webp'
+        '/images/phone/1.png', '/images/phone/2.png', '/images/phone/3.png', '/images/phone/4.png', '/images/phone/5.png', '/images/phone/6.png'
     ]
 
     const settings = {
