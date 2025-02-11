@@ -58,7 +58,7 @@ export default function Home() {
           <div className="grid grid-cols-1 pb-6 text-center">
           <h2 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Features of the Anime Witcher application, without ads and direct link</h2>
           <p className="text-slate-400 text-lg max-w-7xl mx-auto">The new updated version of the Anime Witcher application came with a change in the appearance of most interfaces to improve the user experience and make it easier for users.</p>
-          <p className="mdi mdi-check text-red-500 text-xl me-2 text-slate-400 max-w-xl mx-auto"><strong>Large Library: </strong> The Anime Watcher hacked application, the latest version, has a large library that includes a huge number of contents that you can watch, and this content is from all categories, so you can enjoy your favorite content from this library.</p>
+          <p className="mdi mdi-check text-red-500 text-xl me-2 max-w-7xl mx-auto"><strong>Large Library: </strong> The Anime Watcher hacked application, the latest version, has a large library that includes a huge number of contents that you can watch, and this content is from all categories, so you can enjoy your favorite content from this library.</p>
 
             
             <ul className="list-none text-slate-400 mt-6 text-left">
