@@ -56,7 +56,7 @@ export default function Screenshot() {
                     {screenshotImg.map((item:string, index:number) =>{
                         return(
                             <div className="tiny-slide" key={index}>
-                                <Link href="#" scroll={false} onClick={()=>openImage(index)} className="lightbox"><Image src={item} width={0} height={0} sizes='100vw' style={{width:'100%', height:'auto'}} alt=""/></Link>
+                                <Link href="/" scroll={false} onClick={()=>openImage(index)} className="lightbox"><Image src={item} width={0} height={0} sizes='100vw' style={{width:'100%', height:'auto'}} alt=""/></Link>
                             </div>
                         )
                     })}
