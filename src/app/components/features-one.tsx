@@ -25,9 +25,7 @@ export default function FeaturesOne() {
                             <Link href="" className="text-lg hover:text-red-500 dark:text-white dark:hover:text-red-500 transition-all duration-500 ease-in-out font-semibold">{item.title}</Link>
                             <p className="text-slate-400 mt-3">{item.desc}</p>
                             
-                            <div className="mt-3">
-                                <Link href="" className="hover:text-red-500 dark:hover:text-red-500 after:bg-red-500 dark:text-white transition duration-500">Read More <i className="mdi mdi-arrow-right"></i></Link>
-                            </div>
+                           
                         </div>
                     </div>
                 )
