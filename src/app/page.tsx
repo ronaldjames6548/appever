@@ -30,10 +30,7 @@ export default function Home() {
 
                   <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 latest version without ads for free 1.2.4</p>
                   <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 for Android. <Link href="/download-animewitcher-latest-version-2025">AnimeWitcher</Link> latest version for Android is a huge anime library through which you can watch all international anime movies and all episodes.</p>
-                  <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 for Android Anime Witcher latest version for Android is a huge anime library through which you can watch all international anime films and all episodes of famous anime series translated via the Internet, various films and series with professional translation or dubbing into Arabic, and anime is made available on the Anime Witcher application in high quality and for free.</p>
-
-
-              
+             
                   <div className="mt-6">
                      <Link href="#"><Image src='/images/download.avif' width={200} height={150} className="inline-block m-1" alt=""/></Link>
                      <Link href="#"><Image src='/images/mediafire.avif' width={200} height={150} className="inline-block m-1" alt=""/></Link>
@@ -55,8 +52,9 @@ export default function Home() {
           <div className="grid grid-cols-1 pb-6 text-center">
               <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Animewithcer's Features</h6>
               <h4 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Discover Powerful Features of Anime Withcer</h4>
+              <p className="text-slate-400 text-lg max-w-7xl mx-auto">The new updated version of the Anime Witcher application came with a change in the appearance of most interfaces to improve the user experience and make it easier for users.</p>
+              <p className="text-slate-400 text-lg max-w-7xl mx-auto">Download Anime Witcher 2025 for Android Anime Witcher latest version for Android is a huge anime library through which you can watch all international anime films and all episodes of famous anime series translated via the Internet, various films and series with professional translation or dubbing into Arabic, and anime is made available on the Anime Witcher application in high quality and for free.</p>
 
-              <p className="text-slate-400 max-w-7xl mx-auto">The new updated version of the Anime Witcher application came with a change in the appearance of most interfaces to improve the user experience and make it easier for users.</p>
           </div>
 
           <FeaturesOne/>
