@@ -51,10 +51,10 @@ export default function Home() {
     <section className="relative md:py-24 py-16" id="features">
       <div className="container relative">
           <div className="grid grid-cols-1 pb-6 text-center">
-              <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Features</h6>
-              <h4 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Discover Powerful Features</h4>
+              <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Animewithcer's Features</h6>
+              <h4 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Discover Powerful Features of Anime Withcer</h4>
 
-              <p className="text-slate-400 max-w-xl mx-auto">Unleash the power of our platform with a multitude of powerful features, empowering you to achieve your goals.</p>
+              <p className="text-slate-400 max-w-xl mx-auto">The new updated version of the Anime Witcher application came with a change in the appearance of most interfaces to improve the user experience and make it easier for users.</p>
           </div>
 
           <FeaturesOne/>
