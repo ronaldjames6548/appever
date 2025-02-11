@@ -54,7 +54,7 @@ export default function Home() {
               <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Animewithcer's Features</h6>
               <h4 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Discover Powerful Features of Anime Withcer</h4>
 
-              <p className="text-slate-400 max-w-xl mx-auto">The new updated version of the Anime Witcher application came with a change in the appearance of most interfaces to improve the user experience and make it easier for users.</p>
+              <p className="text-slate-400 max-w-7xl mx-auto">The new updated version of the Anime Witcher application came with a change in the appearance of most interfaces to improve the user experience and make it easier for users.</p>
           </div>
 
           <FeaturesOne/>
