@@ -16,12 +16,12 @@ export default function AboutOne() {
         {
             icon:FiShield,
             title:'Enhance Security',
-            desc:'There are many variations of passages of Lorem Ipsum available'
+            desc:'Animewitcher is now more better and secure'
         },
         {
             icon:FiAperture,
             title:'High Performance',
-            desc:'There are many variations of passages of Lorem Ipsum available'
+            desc:'Animewithcer latest version works with high performance'
         },
     ]
   return (
@@ -34,9 +34,9 @@ export default function AboutOne() {
 
             <div className="lg:col-span-7 md:col-span-6">
                 <div className="lg:ms-10">
-                    <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Customizable</h6>
-                    <h4 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Work Faster With <br/> Powerful Tools</h4>
-                    <p className="text-slate-400 max-w-xl">Unleash the power of our platform with a multitude of powerful features, empowering you to achieve your goals.</p>
+                    <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Anime Witcher (انمي ويتشر)</h6>
+                    <h2 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Fast Update <br/> As Episodes Released</h2>
+                    <p className="text-slate-400 max-w-xl">The Animewithcer is best and fastest application to add new episodes as soon as they are released</p>
 
                     <div className="grid lg:grid-cols-2 grid-cols-1 gap-6 mt-6">
                         {data.map((item:Data,index:any)=>{
@@ -58,9 +58,7 @@ export default function AboutOne() {
                         })}
                     </div>
 
-                    <div className="mt-6">
-                        <Link href="" className="hover:text-red-500 dark:hover:text-red-500 after:bg-red-500 dark:text-white transition duration-500 font-medium">Learn More <i className="mdi mdi-arrow-right align-middle"></i></Link>
-                    </div>
+                    
                 </div>
             </div>
         </div>
