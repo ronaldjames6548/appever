@@ -5,25 +5,25 @@ export const feature = [
     {
         icon:FiMaximize,
         title:'Fully functional',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        desc:'Animewitcher latest version is now fully functional with no issues ans bugs.',
         active:true
     },
     {
         icon:FiPieChart,
-        title:'Secure Data',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        title:'Easy Access',
+        desc:'Large number of anime movies may impress you and shows to you according to the order that you have specified.',
         active:false
     },
     {
         icon:FiNavigation2,
-        title:'Track Location',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        title:'Fast Update',
+        desc:'All the latest content is added to the application exclusively, so that the user can enjoy watching new shows from the Anime Witcher',
         active:true
     },
     {
         icon:FiDatabase,
-        title:'Data Analyse',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        title:'Large library',
+        desc:'The Anime Watcher hacked application, the latest version has a large library that includes a huge number of contents that you can watch',
         active:false
     },
 ]
