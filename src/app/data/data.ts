@@ -64,7 +64,7 @@ export const feature3 = [
 ]
 
 export const screenshotImg = [
-    '/images/phone/1.png', '/images/phone/2.png', '/images/phone/3.png', '/images/phone/4.png', '/images/phone/5.png', '/images/phone/6.png', '/images/phone/7.png', '/images/phone/8.png'
+    '/images/phone/1.webp', '/images/phone/2.webp', '/images/phone/3.webp', '/images/phone/4.webp', '/images/phone/5.webp', '/images/phone/6.webp', '/images/phone/4.webp', '/images/phone/2.webp'
 ]
 
 export const faq = [
