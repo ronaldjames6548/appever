@@ -69,7 +69,8 @@ export default function Home() {
                         <li className="mb-1 flex ms-0"><i className="mdi mdi-check text-red-500 text-xl me-2"></i> Updates: The developer is keen to make exclusive updates to the application for you. All the latest content is added to the application exclusively, so that the user can enjoy watching new shows from the Anime Witcher hacked application for Android.</li>
                         <li className="mb-1 flex ms-0"><i className="mdi mdi-check text-red-500 text-xl me-2"></i> Notification Feature: One of the most prominent features of downloading the Anime Witcher application is that it contains a notification service that alerts the user to the presence of updates in the Anime Witcher Apk application so that you can move to the application and enjoy watching these shows exclusively, and thus you do not need to enter the application from time to time to view these updates.</li>
                         <li className="mb-1 flex ms-0"><i className="mdi mdi-check text-red-500 text-xl me-2"></i> Suggestions: “Anime Watcher Mod” also provides many suggestions for all the content that you might like, and these suggestions are determined based on the searches you perform within the application.</li>
-            </ul>     
+            </ul>   
+            </div>
           <FeaturesOne/>
       </div>
 
