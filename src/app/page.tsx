@@ -72,10 +72,10 @@ export default function Home() {
     <section className="relative md:py-24 py-16 bg-slate-50/50 dark:bg-slate-800/20" id="screenshot">
       <div className="container relative">
           <div className="grid grid-cols-1 pb-6 text-center">
-              <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Screenshots</h6>
+              <h6 className="text-red-500 uppercase text-sm font-bold tracking-wider mb-3">Animewitcher's Screenshots</h6>
               <h4 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-bold">Simple & Beautiful Interface</h4>
 
-              <p className="text-slate-400 max-w-xl mx-auto">Unleash the power of our platform with a multitude of powerful features, empowering you to achieve your goals.</p>
+              <p className="text-slate-400 max-w-xl mx-auto">The Latest version 1.2.4 comes with elegent design and features.</p>
           </div>
           <Screenshot/>
       </div>
