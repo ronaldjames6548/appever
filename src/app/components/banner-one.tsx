@@ -41,11 +41,8 @@ export default function BannerOne() {
         <div className="container relative z-1">
             <div className="grid md:grid-cols-2 grid-cols-1 items-center mt-6 gap-[30px] relative">
                 <div className="md:me-6">
-                    <h2 className="font-bold lg:leading-normal leading-normal text-[42px] lg:text-[54px] mb-5">Download Anime Witcher 2025</h2>
-                    <h3 class="font-bold lg:leading-normal leading-normal text-[24px] lg:text-[42px] mb-5">Latest Version: 1.2.4</h3>
-                    <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 latest version without ads for free 1.2.4</p>
-                    <p className="text-slate-400 text-lg max-w-xl">Download Anime Witcher 2025 for Android. <a href="/download-animewitcher-latest-version-2025">AnimeWitcher</a> latest version for Android is a huge anime library through which you can watch all international anime movies and all episodes.</p>
-
+                    <h4 className="font-bold lg:leading-normal leading-normal text-[42px] lg:text-[54px] mb-5">Bring Your App Next Level With Appever</h4>
+                    <p className="text-slate-400 text-lg max-w-xl">Gain valuable insights into user behavior and drive data-informed decision-making with our revolutionary platform.</p>
                 
                     <div className="mt-6">
                         <Link href="" className="py-2 px-5 tracking-wider inline-flex items-center justify-center font-medium rounded bg-red-500 text-white">Download Now</Link>
@@ -57,7 +54,7 @@ export default function BannerOne() {
                         <li className="inline-block relative -ms-4"><Image src='/images/client/03.jpg' width={40} height={40} className="size-10 rounded-full border-[3px] border-white dark:border-slate-900 shadow dark:shadow-gray-500" alt=""/></li>
                         <li className="inline-block relative -ms-4"><Image src='/images/client/04.jpg' width={40} height={40} className="size-10 rounded-full border-[3px] border-white dark:border-slate-900 shadow dark:shadow-gray-500" alt=""/></li>
                         <li className="inline-block relative -ms-4"><Image src='/images/client/05.jpg' width={40} height={40} className="size-10 rounded-full border-[3px] border-white dark:border-slate-900 shadow dark:shadow-gray-500" alt=""/></li>
-                        <li className="inline-block ms-1 text-slate-400 font-medium"><span className="text-slate-900 dark:text-white font-semibold"><CountUp className="counter-value" end={3M}/>+</span> Total app users</li>
+                        <li className="inline-block ms-1 text-slate-400 font-medium"><span className="text-slate-900 dark:text-white font-semibold"><CountUp className="counter-value" end={45485}/>+</span> Total app users</li>
                     </ul>
                 </div>
 
