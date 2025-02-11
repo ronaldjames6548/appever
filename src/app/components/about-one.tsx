@@ -28,7 +28,7 @@ export default function AboutOne() {
         <div className="grid md:grid-cols-12 grid-cols-1 items-center gap-6">
             <div className="lg:col-span-5 md:col-span-6">
                 <div className="pt-6 px-6 rounded-2xl bg-red-500/5 dark:bg-red-500/10 shadow shadow-red-500/20">
-                    <Image src='/images/phone/half-1.png' width={0} height={0} sizes='100vw' style={{width:'100%', height:'auto'}} alt=""/>
+                    <Image src='/images/phone/half-1.avif' width={0} height={0} sizes='100vw' style={{width:'100%', height:'auto'}} alt=""/>
                 </div>
             </div>
 
